@@ -41,3 +41,9 @@ StratusLink Communications is a leading telecommunications provider serving over
 StratusLink delivers a comprehensive suite of connectivity and digital services for household, commercial and enterprise customers. The company is recognized for its reliable nationwide coverage, competitive pricing, and continous innovation in digital infrastucture.
 
 In recent years, StratusLink has strategically expanded its digital advertising efforts to strengthen its presense and capture a larger share of the highly competitive telecommunications market.
+
+## Objectives
+- Identify KPIs for location, audience, creative, and inventory analysis.
+- Analyze performance using digital marketing metrics.
+- Measure performance against client targets.
+- Share insights and make recommendations to improve performance and efficiency.
