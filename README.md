@@ -3,10 +3,10 @@
 COOP Careers Cohort 578 Capstone Project
 
 **Managers** 
-- Carla Perez: Spacial
-- Lala Hamidli: Audience
-- Yamil Perez: Creative
-- Armando Dominguez: Inventory
+- Carla Perez: *Spacial*
+- Lala Hamidli: *Audience*
+- Yamil Perez: *Creative*
+- Armando Dominguez: *Inventory*
 
 **Spacial Analysts** 
 - Brandon Downer
