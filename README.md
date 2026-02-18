@@ -3,10 +3,10 @@
 COOP Careers Cohort 578 Capstone Project
 
 **Managers** 
-- Carla Perez: *Spatial*
-- Lala Hamidli: *Audience*
-- Yamil Perez: *Creative*
-- Armando Dominguez: *Inventory*
+- *Spatial*: Carla Perez
+- *Audience*: Lala Hamidli
+- *Creative*: Yamil Perez
+- *Inventory*: Armando Dominguez
 
 **Spatial Analysts** 
 - Brandon Downer
@@ -66,7 +66,7 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 #### Key Metrics Analyzed
 
 - **Engagement Metrics**: Click-Through Rate (CTR)
-- **Cost Metrics**: CPC, CPM, CPA/CPCV, VCPM
+- **Cost Metrics**: CPC, CPM, CPA/CPCV, vCPM
 - **Branding Metric**: Viewability
 
 ### KPI Summary
@@ -93,11 +93,17 @@ Below is a collective overview of the KPIs for all online ad campaigns from the 
 - **Average Conversion Rate by Smartphone**: 50.58%
 - **Average Conversions Rate by Tablet**: 50.11%
 
+Comparing StratusLink's KPIs ovber the six-week period to benchmark goals reveals a clear performance gap in cost-efficiency metrics, with the average vCPM exceeding it's target by as much as 4.5x. In contrast, performance rate metrics (e.g, CVR, CTR) largely meet benchmarks, with viewability as the only exception, falling notably short of its target. This suggests that improving viewability may be a critical lever in addressing underperforming metrics.
+
 Average Converion Rate for each creative ad message:
 
 - **Get Unlimited**: 50.44%
 - **Fast Wifi Now**: 49.03%
 - **Switch & Save**: 48.87%
 - **Upgrade Today**: 48.68%
+
+According to our analysis, the 'Get Unlimited' ad message was the only variant to meet the CVR goal, though the remaining messages performed comparably. A closer examination reveals a clear pattern: the two-top performing messages highlight a specific benefit of becoming a StratusLink customer, whereas the lower-performing variants rely on more direct, action-oriented language. This suggests that emphasizing tangible customer benefits is more effective at driving conversions than simply prompting users to act.
+
+Although all but one message fell short of the individual CVR goal, the collective average CVR still meets the benchmark. This indicates that while messaging variation influences performance at the individual level, it may not be the primary driver of overall campaign success.
 
 
