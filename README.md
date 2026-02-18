@@ -69,5 +69,27 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 - **Cost Metrics**: CPC, CPM, CPA/CPCV, VCPM
 - **Branding Metric**: Viewability
 
-#### KPI Summary
-![KPI Summary](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/955e7bc42c291c3f6b86fc759d80adf31cbdb25e/KPI%20Summary.png)
+### KPI Summary
+
+Below is a collective overview of the KPIs for all online ad campaigns from the data time frame.
+
+- **Total Campaigns**: 3,453
+- **Average Click-Through Rate**: 12.43%
+- **Average Cost per Click**: $48.09
+- **Average Cost per Conversion**: $159
+- **Average Conversion Rate**: 50.51%
+- **Average Cost per Mille**: $5,758.23
+- **Average Viewability Rate**: 49.15%
+- **Average Viewable Cost per Mille**: $23,781.14
+- **Average Conversion Rate by Computer**: 50.99%
+- **Average Conversion Rate by Smartphone**: 50.58%
+- **Average Conversions Rate by Tablet**: 50.11%
+
+Average Converion Rate for each creative ad message:
+
+- **Get Unlimited**: 50.44%
+- **Fast Wifi Now**: 49.03%
+- **Switch & Save**: 48.87%
+- **Upgrade Today**: 48.68%
+
+
