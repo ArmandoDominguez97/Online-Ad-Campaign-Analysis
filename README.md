@@ -73,6 +73,7 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 
 Primary Benchmark Goals - Performance 
 
+![Primary KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/b8cb26e7c5c8acf409476908ab3c6a8f5d009b0c/Primary%20Benchmark%20Goals.png)
 
 Secondary Benchmark Goals - Efficiency
 
