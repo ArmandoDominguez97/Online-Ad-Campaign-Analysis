@@ -71,6 +71,13 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 
 ### KPI Summary
 
+Primary Benchmark Goals - Performance 
+
+
+Secondary Benchmark Goals - Efficiency
+
+
+
 Below is a collective overview of the KPIs for all online ad campaigns from the data time frame.
 
 - **Total Campaigns**: 3,453
