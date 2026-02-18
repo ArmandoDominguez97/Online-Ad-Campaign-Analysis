@@ -69,4 +69,6 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 - **Cost Metrics**: CPC, CPM, CPA/CPCV, VCPM
 - **Branding Metric**: Viewability
 
+#### KPI Summary
+
 
