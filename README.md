@@ -1,4 +1,4 @@
-# Starlink Communications Online Ad Campaign Analysis
+# StarLink Communications Online Ad Campaign Analysis
 
 COOP Careers Cohort 578 Capstone Project
 
@@ -70,5 +70,4 @@ Data was collected from marketing activity on October 13, 2025 - November 24, 20
 - **Branding Metric**: Viewability
 
 #### KPI Summary
-
-
+![KPI Summary](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/955e7bc42c291c3f6b86fc759d80adf31cbdb25e/KPI%20Summary.png)
