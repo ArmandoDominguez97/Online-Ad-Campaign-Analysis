@@ -77,7 +77,7 @@ Primary Benchmark Goals - Performance
 
 Secondary Benchmark Goals - Efficiency
 
-
+![Secondary KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/a7bb563d61548bc09e374c9b58b0f1f5b44a7093/Secondary%20Benchmark%20Goals.png)
 
 Below is a collective overview of the KPIs for all online ad campaigns from the data time frame.
 
