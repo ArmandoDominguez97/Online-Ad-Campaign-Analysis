@@ -42,8 +42,30 @@ StratusLink delivers a comprehensive suite of connectivity and digital services 
 
 In recent years, StratusLink has strategically expanded its digital advertising efforts to strengthen its presense and capture a larger share of the highly competitive telecommunications market.
 
-## Objectives
+### Objectives
 - Identify KPIs for location, audience, creative, and inventory analysis.
 - Analyze performance using digital marketing metrics.
 - Measure performance against client targets.
 - Share insights and make recommendations to improve performance and efficiency.
+
+### Data Overview
+**Data Sources**
+
+[Click Here for Datasets](https://docs.google.com/spreadsheets/d/1JU5LDOe17y5SnXyieMovUUkcmT656yYo/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
+[Click Here for Data Dictionary](https://docs.google.com/spreadsheets/d/1XXZmAL_f_HF0yFgtStOBggHRmSW-ZMLl/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
+
+- *Dataset 1*: Campaign performance metrics
+- *Dataset 2*: Audience Demographic Attributes
+- *Dataset 3*: User-level engagement data
+
+**Data Time Frame**
+
+Data was collected from marketing activity on October 13, 2025 - November 24, 2025.
+
+**Key Metrics Analyzed**
+
+- *Engagement Metrics*: Click-Through Rate (CTR)
+- *Cost Metrics*: CPC, CPM, CPA/CPCV, VCPM
+- *Branding Metric*: Viewability
+
+
