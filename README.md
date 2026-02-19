@@ -106,4 +106,31 @@ According to our analysis, the 'Get Unlimited' ad message was the only variant t
 
 Although all but one message fell short of the individual CVR goal, the collective average CVR still meets the benchmark. This indicates that while messaging variation influences performance at the individual level, it may not be the primary driver of overall campaign success.
 
+## Spatial Analysis
+
+
+
+The Northeast is the top performing region with a CTR of 12.75% while the Midwest falls on the oppposite end of the spectrum at 12.11%. The difference in CTR for both regions isn't particularly significant, as they both fall comfortably above the benchmark goal of 10%. This seems to suggest that, when ads are effectively delivered, messaging resonates consistently across regions. 
+
+
+
+The West and South emerge as the most cost-efficient regions in the U.S, with the West delivering the lowest cost per view and click, and the South achieving the lowest cost per thousand impressions. This suggests that the West is more efficient at driving cost-effective engagement at a granular level, while the South offers greater efficiency at scale.
+
+
+
+In contrast, the Northeast and Midwest are the least cost-efficient regions. The Northeast is the most expensive in terms of both cost per view and cost per thousand impressions, while the Midwest incurs the highest cost per click. Notably, the Midwest also records the lowest CTR, making its high CPC particularly concerning.
+
+
+
+Regional viewability remains highly consistent, with less than a half of a percent difference between the highest and lowest performing regions. This suggests that regional variation is likely not a major factor of viewability underperformance.
+
+
+
+At the state level, Iowa (Midwest) records the highest viewability rate. Given that the Midwest overall underperforms on viewability, this suggests Iowa may be an outlier worth analyzing to identify factors that could improve regional performance. A similar pattern may be observed in the Northeast, where Massachusetts and Delaware outperform their region's relatively low viewability, offering additional opportunities for insight and optimization. 
+
+
+
+Connecticut (Northeast), by contrast, records the lowest viewability by a significant margin, suggesting that targeted improvements in this state could meaningfully lift overall viewability in the region. Similarly, Texas and Louisiana (South) rank among the bottom five states for viewability. If we address the underperformance of these two states, we may further strengthen an already relatively strong region.
+
+
 
