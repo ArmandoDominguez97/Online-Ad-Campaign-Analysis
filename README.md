@@ -134,3 +134,7 @@ Connecticut (Northeast), by contrast, records the lowest viewability by a signif
 
 
 
+Four of the Five states with the highest vCPM are located in the West, which may help explain the regions strong cost-efficiency at a granular level but diminishing efficiency as scale increases. In contrast, the five states with the lowest vCPM are distributed across regions, with the South being notably absent. This is somewhat unexpected given that the South has the lowest overall CPM, suggesting a potentially significant disconnect between ad impressions and actual viewability in the region.
+
+
+
