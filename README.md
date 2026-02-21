@@ -112,7 +112,7 @@ Although all but one message fell short of the individual CVR goal, the collecti
 
 The Northeast is the top performing region with a CTR of 12.75% while the Midwest falls on the oppposite end of the spectrum at 12.11%. The difference in CTR for both regions isn't particularly significant, as they both fall comfortably above the benchmark goal of 10%. This seems to suggest that, when ads are effectively delivered, messaging resonates consistently across regions. 
 
-
+![Top Performing US Regions](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/0d1f4f73fda748b85ddec3c17b32c8959fd6679e/Top%20regions%20ctr.jpg)
 
 The West and South emerge as the most cost-efficient regions in the U.S, with the West delivering the lowest cost per view and click, and the South achieving the lowest cost per thousand impressions. This suggests that the West is more efficient at driving cost-effective engagement at a granular level, while the South offers greater efficiency at scale.
 
