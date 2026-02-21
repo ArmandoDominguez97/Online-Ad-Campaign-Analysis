@@ -130,7 +130,7 @@ At the state level, Iowa (Midwest) records the highest viewability rate. Given t
 
 Connecticut (Northeast), by contrast, records the lowest viewability by a significant margin, suggesting that targeted improvements in this state could meaningfully lift overall viewability in the region. Similarly, Texas and Louisiana (South) rank among the bottom five states for viewability. If we address the underperformance of these two states, we may further strengthen an already relatively strong region.
 
-
+![vCPM by State](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/692e22b6e8c4e1e2da31642f02a0900950bc0c74/vCPM%20numbers.png)
 
 Four of the Five states with the highest vCPM are located in the West, which may help explain the regions strong cost-efficiency at a granular level but diminishing efficiency as scale increases. In contrast, the five states with the lowest vCPM are distributed across regions, with the South being notably absent. This is somewhat unexpected given that the South has the lowest overall CPM, suggesting a potentially significant disconnect between ad impressions and actual viewability in the region.
 
