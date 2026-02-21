@@ -179,3 +179,15 @@ An analysis of KPIs by age group reveals the following trends:
 - Individuals aged 55 and older are the most cost-effective group, potentially reflecting greater autonomy and fewer financial constraints (car payments, mortgage, etc).
 - Ages 35-44 demonstrate the weakest engagement levels relative to other segments.
 - Ages 18-24 are the most expensive to convert, which may be influenced by structural factors such as limited-decision making authority or constrained living situations (college campus, parent's home, etc).
+
+![Gender Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/ae2673aecdf3fd8beca4adcf1fa082678cd451e6/Gender%20Breakdown.png)
+
+A breakdown of the audience by gender shows a relatively even distribution overall, with non-binary individuals representing the largest segment. Given the relatively small non-binary population in the U.S, this likely signals a substantial portion of users whose gender could not be definitely identified, rather than a true overrepresentation of non-binary individuals in the audience.
+
+![Gender KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/ae2673aecdf3fd8beca4adcf1fa082678cd451e6/Gender_KPIs.png)
+
+Analyzing the KPIs by gender delivers the following trends:
+
+- Female users drive the strongest engagement with the highest CTR and a relatively efficient CPC.
+- Male users demonstrate steady performance with an above-benchmark CTR and relatively competitive costs overall.
+- Non-binary users exhibit the lowest CTR and highest CPC, which may reflect challenges in audience identification and suggest an oppurtunity to adopt more inclusive, broadly resonant messaging.
