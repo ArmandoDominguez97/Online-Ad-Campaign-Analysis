@@ -138,7 +138,7 @@ Four of the Five states with the highest vCPM are located in the West, which may
 
 The top five states by CTR are distributed across regions, each exceeding the national average by more than one percentage point. This suggests that high-performing states may offer localized insights that can be leveraged to improve CTR within their respective regions.
 
-
+![Worst States by CTR](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/68971003bb0e2bf299d6c60e8947272636124041/bottom_states_CTR.png)
 
 In contrast, three of the bottom five states for CTR are located in the South. While the region does not rank lowest overall, improving performance in Tennessee, Mississippi, and Louisiana could elevate the South into a top-performing region.
 
