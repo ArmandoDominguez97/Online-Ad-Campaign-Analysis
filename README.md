@@ -142,11 +142,11 @@ The top five states by CTR are distributed across regions, each exceeding the na
 
 In contrast, three of the bottom five states for CTR are located in the South. While the region does not rank lowest overall, improving performance in Tennessee, Mississippi, and Louisiana could elevate the South into a top-performing region.
 
-
+![Top US States by Other Metrics](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/4422fa37df1680de8e06a28d2d421c38c4050cbc/Top_States_Metrics.png)
 
 Across other key metrics, both the Midwest and West are strongly represented among top-performing states. While the West's presence aligns with its cost-efficiency in driving views and clicks, the Midwest's representation is more unexpected given its relatively high CPC. Perhaps examining South Dakota's relatively high CPC in contrast with Wisconsins relatively low CPC can provide insights on how to improve cost-efficiency across the region.
 
-
+![Bottom US States by Other Metrics](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/4422fa37df1680de8e06a28d2d421c38c4050cbc/Bottom_States_Metrics.png)
 
 Conversely, the lowest-performing states are distributed across all regions, with minimal variation between them. This pattern suggests that factors beyond regional differences may be contributing to lower cost-efficiency. 
 
