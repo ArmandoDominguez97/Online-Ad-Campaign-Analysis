@@ -167,4 +167,15 @@ Additionally, rural areas incure the highest costs per view, further emphasizing
 
 ### Age
 
+![Age Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/029001f7315be4146055f7cc3e555367f3af2f21/Age_Breakdown.png)
 
+A breakdown of our audience by age group shows that individuals aged 55+ represent the largest share, while those aged 18-24 comprise the smallest. Both groups are notably seperated from the other age segments, indicating a significant disparity in audience distribution.
+
+![KPIs by Age Group](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/029001f7315be4146055f7cc3e555367f3af2f21/Age_Metrics.png)
+
+An analysis of KPIs by age group reveals the following trends:
+
+- Ages 45-54 emerge as the strongest overall segment across performance metrics.
+- Individuals aged 55 and older are the most cost-effective group, potentially reflecting greater autonomy and fewer financial constraints (car payments, mortgage, etc).
+- Ages 35-44 demonstrate the weakest engagement levels relative to other segments.
+- Ages 18-24 are the most expensive to convert, which may be influenced by structural factors such as limited-decision making authority or constrained living situations (college campus, parent's home, etc).
