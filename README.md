@@ -162,3 +162,9 @@ Urban areas also demonstrate the highest viewability rates, which is likely anot
 ![vCPM by Urbanicity](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3e1d0f83232d69cdfc4acab7651db961762bb37c/vCPM_by_Urbanicity.png)
 
 Additionally, rural areas incure the highest costs per view, further emphasizing their inefficiency. Limited visibility and higher costs might be hurting the overall conversion rates of those areas. Addressing these metrics could result in substaintial gains in conversions.
+
+## Audience Analysis
+
+### Age
+
+
