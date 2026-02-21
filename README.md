@@ -116,7 +116,7 @@ The Northeast is the top performing region with a CTR of 12.75% while the Midwes
 
 The West and South emerge as the most cost-efficient regions in the U.S, with the West delivering the lowest cost per view and click, and the South achieving the lowest cost per thousand impressions. This suggests that the West is more efficient at driving cost-effective engagement at a granular level, while the South offers greater efficiency at scale.
 
-
+![Least Cost-Effective Regions](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/6dcb7706ba9567462036dcbe1efd235579634054/Bottom%20regions%20by%20cost-effecitveness.png)
 
 In contrast, the Northeast and Midwest are the least cost-efficient regions. The Northeast is the most expensive in terms of both cost per view and cost per thousand impressions, while the Midwest incurs the highest cost per click. Notably, the Midwest also records the lowest CTR, making its high CPC particularly concerning.
 
