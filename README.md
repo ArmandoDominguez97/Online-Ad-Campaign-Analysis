@@ -138,3 +138,28 @@ Four of the Five states with the highest vCPM are located in the West, which may
 
 
 
+The top five states by CTR are distributed across regions, each exceeding the national average by more than one percentage point. This suggests that high-performing states may offer localized insights that can be leveraged to improve CTR within their respective regions.
+
+
+
+In contrast, three of the bottom five states for CTR are located in the South. While the region does not rank lowest overall, improving performance in Tennessee, Mississippi, and Louisiana could elevate the South into a top-performing region.
+
+
+
+Across other key metrics, both the Midwest and West are strongly represented among top-performing states. While the West's presence aligns with its cost-efficiency in driving views and clicks, the Midwest's representation is more unexpected given its relatively high CPC. Perhaps examining South Dakota's relatively high CPC in contrast with Wisconsins relatively low CPC can provide insights on how to improve cost-efficiency across the region.
+
+
+
+Conversely, the lowest-performing states are distributed across all regions, with minimal variation between them. This pattern suggests that factors beyond regional differences may be contributing to lower cost-efficiency. 
+
+
+
+In terms of urbanicity, CTR is highest in urban areas and lowest in rural areas. This may help explain regional differences, as the Northeast's higher CTR aligns with its dense concentration of urban and suburban population, while the Midwest's lower CTR reflects its more rural composition. 
+
+
+
+Urban areas also demonstrate the highest viewability rates, which is likely another factor in it's stronger average CTR. In contrast, rural areas exhibit the highest conversion rates, indicating untapped potential that may be constrained by lower visibility.
+
+
+
+Additionally, rural areas incure the highest costs per view, further emphasizing their inefficiency. Limited visibility and higher costs might be hurting the overall conversion rates of those areas. Addressing these metrics could result in substaintial gains in conversions.
