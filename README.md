@@ -124,11 +124,9 @@ In contrast, the Northeast and Midwest are the least cost-efficient regions. The
 
 Regional viewability remains highly consistent, with less than a half of a percent difference between the highest and lowest performing regions. This suggests that regional variation is likely not a major factor of viewability underperformance.
 
-
+![Viewability by State](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/2804eca2a4309e7f25a48fa296f60bceaff233d1/Viewability%20by%20state.png)
 
 At the state level, Iowa (Midwest) records the highest viewability rate. Given that the Midwest overall underperforms on viewability, this suggests Iowa may be an outlier worth analyzing to identify factors that could improve regional performance. A similar pattern may be observed in the Northeast, where Massachusetts and Delaware outperform their region's relatively low viewability, offering additional opportunities for insight and optimization. 
-
-
 
 Connecticut (Northeast), by contrast, records the lowest viewability by a significant margin, suggesting that targeted improvements in this state could meaningfully lift overall viewability in the region. Similarly, Texas and Louisiana (South) rank among the bottom five states for viewability. If we address the underperformance of these two states, we may further strengthen an already relatively strong region.
 
