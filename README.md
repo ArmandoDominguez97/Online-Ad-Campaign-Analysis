@@ -101,6 +101,7 @@ Average Converion Rate for each creative ad message:
 - **Fast Wifi Now**: 49.03%
 - **Switch & Save**: 48.87%
 - **Upgrade Today**: 48.68%
+- **Start Your Plan**: 48.67%
 
 According to our analysis, the 'Get Unlimited' ad message was the only variant to meet the CVR goal, though the remaining messages performed comparably. A closer examination reveals a clear pattern: the two-top performing messages highlight a specific benefit of becoming a StratusLink customer, whereas the lower-performing variants rely on more direct, action-oriented language. This suggests that emphasizing tangible customer benefits is more effective at driving conversions than simply prompting users to act.
 
