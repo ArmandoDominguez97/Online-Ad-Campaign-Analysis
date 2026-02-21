@@ -150,14 +150,14 @@ Across other key metrics, both the Midwest and West are strongly represented amo
 
 Conversely, the lowest-performing states are distributed across all regions, with minimal variation between them. This pattern suggests that factors beyond regional differences may be contributing to lower cost-efficiency. 
 
-
+![CTR by Urbanicity](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3e1d0f83232d69cdfc4acab7651db961762bb37c/CTR_by_Urbanicity.png)
 
 In terms of urbanicity, CTR is highest in urban areas and lowest in rural areas. This may help explain regional differences, as the Northeast's higher CTR aligns with its dense concentration of urban and suburban population, while the Midwest's lower CTR reflects its more rural composition. 
 
-
+![Urbanicity Metrics](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3e1d0f83232d69cdfc4acab7651db961762bb37c/Urbanicity_Metrics.png)
 
 Urban areas also demonstrate the highest viewability rates, which is likely another factor in it's stronger average CTR. In contrast, rural areas exhibit the highest conversion rates, indicating untapped potential that may be constrained by lower visibility.
 
-
+![vCPM by Urbanicity](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3e1d0f83232d69cdfc4acab7651db961762bb37c/vCPM_by_Urbanicity.png)
 
 Additionally, rural areas incure the highest costs per view, further emphasizing their inefficiency. Limited visibility and higher costs might be hurting the overall conversion rates of those areas. Addressing these metrics could result in substaintial gains in conversions.
