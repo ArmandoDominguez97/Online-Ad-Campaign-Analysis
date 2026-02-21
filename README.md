@@ -120,7 +120,7 @@ The West and South emerge as the most cost-efficient regions in the U.S, with th
 
 In contrast, the Northeast and Midwest are the least cost-efficient regions. The Northeast is the most expensive in terms of both cost per view and cost per thousand impressions, while the Midwest incurs the highest cost per click. Notably, the Midwest also records the lowest CTR, making its high CPC particularly concerning.
 
-
+![National Viewability](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/f2bc2dd91a4ea7a7d8d0e2d471c2ea67af2d8a0e/National%20Viewability.png)
 
 Regional viewability remains highly consistent, with less than a half of a percent difference between the highest and lowest performing regions. This suggests that regional variation is likely not a major factor of viewability underperformance.
 
