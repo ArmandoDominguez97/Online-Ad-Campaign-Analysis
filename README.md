@@ -209,6 +209,8 @@ An analysis of KPIs by education level reveals the following trends:
 - Post graduates generate the lowest CPC, indicating the most cost-efficient traffic.
 - Exposure costs, while efficient at a granular level, become increasingly volatile at scale, suggesting potential inefficiencies in broader reach strategies.
 
+### Occupation
+
 ![Occupation Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/814223ec9db40d49bd6c26870df4076a7f3a7fec/Occupation_Breakdown.png)
 
 A review of audience distribution by occupation shows significant variability across segments. Notably, unemployed users represent a disproportionately large share of the audience, while students account for a relatively small portion. The student segment likely overlaps with the 18-24 age group, which as previously noted, may have limited influence over ISP decisions. In contrast, unemployed individuals may have greater time and incentive to evaluate available offers.
@@ -219,7 +221,9 @@ An analysis of KPIs by occupation reveals several trends:
 
 - Retired individuals are the most cost-efficient to convert, reinforcing earlier findings that older audiences (55+) are both the largest and most efficient segment.
 - Students drive the highest engagement (CTR), but they are also the most expensive to convert and have the highest CPC, likely reflecting limited decision-making authority.
-- Homemakers & Self-Employed individuals deliver the most balanced performance. Homemakers may represent an underleveraged segment with meaningful household influence, while self-employed users may respond well to messaging that emphasizing flexible internet solutions for both personal and business use.
+- Homemakers & Self-Employed individuals deliver the most balanced performance. Homemakers may represent an underleveraged segment with meaningful household influence, while self-employed users may respond well to messaging that emphasize flexible internet solutions for both personal and business use.
+
+### Income
 
 ![Income Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1e55ea2d01acbe7603b24ccbe8e035a528b382db/Income_Breakdown.png)
 
@@ -232,3 +236,6 @@ An analysis of KPIs by income reveals the following trends:
 - High income users are the most cost-efficient segment, with a strong CTR, suggesting that messaging resonates well and pricing is unlikely to be a barrier.
 - Middle-income users show steady, balanced performance across CTR and cost metrics, indicating consistent responsiveness without significant cost concerns.
 - Low-income users generate the highest CTR but are the least cost-efficient overall. This pattern may reflect strong interest, but pricing that might be too prohibitive for them to convert. These users may be more inclined to explore options, hence the high CTR.
+
+### Marital Status
+
