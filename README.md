@@ -269,3 +269,9 @@ An analysis of KPIs by household size uncovers several key trends:
 ### Conclusion
 
 Based on a comprehensive analysis of audience insights, three key personas have been identified as optimal targets for maximizing performance and cost-efficiency.
+
+![Persona 1](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/00e9bbada0a8617a8f5794f48afbe3ab956ba35e/Persona%201.png)
+
+![Persona 2](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/00e9bbada0a8617a8f5794f48afbe3ab956ba35e/Persona%202.png)
+
+![Persona 3](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/00e9bbada0a8617a8f5794f48afbe3ab956ba35e/Persona%203.png)
