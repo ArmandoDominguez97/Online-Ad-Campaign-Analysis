@@ -239,3 +239,15 @@ An analysis of KPIs by income reveals the following trends:
 
 ### Marital Status
 
+![Marital Status Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/c6827ff2716e8034091abbc159f88d28caa22cf8/Marital_Status_Breakdown.png)
+
+A breakdown of the audience by marital status shows a relatively even distribution, although divorced individuals represent a significantly larger segment than the others.
+
+![Marital Status KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/c6827ff2716e8034091abbc159f88d28caa22cf8/Marital_Status_KPIs.png)
+
+An analysis of KPIs by marital status uncovers these key trends:
+
+- Single users represent the most efficient segment for acquisition despite having the lowest CTR. This might suggest a disconnect between the percieved value of StratusLink based on messaging, and the actual value once fully examined.
+- Divorced users demonstrate solid engagement but comparatively lower cost-efficiency.
+- Widowed users generate the most cost-efficient traffic and engagement, with the lowest CPC and CPM across segments.
+- The metrics across marital segments are rather variable, with married users consistently performing near the middle of the pack across metrics, potentially reflecting more stable and predictable behavior.
