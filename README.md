@@ -265,3 +265,7 @@ An analysis of KPIs by household size uncovers several key trends:
 - Two-person households emerge as the strongest overall segment, delivering the lowest cost per conversion and cost per click. This may reflect dual-income dynamics, which would align with earlier findings that higher-income users are most cost-efficient.
 - Households with children have the highest engagement, potentially driven by a greater need for reliable and cost-effective internet services.
 - Single-person households underperform relative to other segments, representing a potential area of concern given their share of the overall audience.
+
+### Conclusion
+
+Based on a comprehensive analysis of audience insights, three key personas have been identified as optimal targets for maximizing performance and cost-efficiency.
