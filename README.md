@@ -251,3 +251,17 @@ An analysis of KPIs by marital status uncovers these key trends:
 - Divorced users demonstrate solid engagement but comparatively lower cost-efficiency.
 - Widowed users generate the most cost-efficient traffic and engagement, with the lowest CPC and CPM across segments.
 - The metrics across marital segments are rather variable, with married users consistently performing near the middle of the pack across metrics, potentially reflecting more stable and predictable behavior.
+
+### Family Size
+
+![Family Size Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/2922c6fb0e518c0382173cf7788903677c975b83/Family%20Size%20Breakdown.png)
+
+An audience breakdown of the audience by household composition shows a relatively even distribution, with single-person households representing the largest segment. This aligns with earlier findings, where single, divorced, and widowed individuals collectively make up almost three-quarters of the audience.
+
+![Family Size KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/2922c6fb0e518c0382173cf7788903677c975b83/Family%20Size%20KPIs.png)
+
+An analysis of KPIs by household size uncovers several key trends:
+
+- Two-person households emerge as the strongest overall segment, delivering the lowest cost per conversion and cost per click. This may reflect dual-income dynamics, which would align with earlier findings that higher-income users are most cost-efficient.
+- Households with children have the highest engagement, potentially driven by a greater need for reliable and cost-effective internet services.
+- Single-person households underperform relative to other segments, representing a potential area of concern given their share of the overall audience.
