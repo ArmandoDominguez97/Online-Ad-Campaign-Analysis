@@ -220,3 +220,15 @@ An analysis of KPIs by occupation reveals several trends:
 - Retired individuals are the most cost-efficient to convert, reinforcing earlier findings that older audiences (55+) are both the largest and most efficient segment.
 - Students drive the highest engagement (CTR), but they are also the most expensive to convert and have the highest CPC, likely reflecting limited decision-making authority.
 - Homemakers & Self-Employed individuals deliver the most balanced performance. Homemakers may represent an underleveraged segment with meaningful household influence, while self-employed users may respond well to messaging that emphasizing flexible internet solutions for both personal and business use.
+
+![Income Breakdown](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1e55ea2d01acbe7603b24ccbe8e035a528b382db/Income_Breakdown.png)
+
+A breakdown of the audience by income shows that high-income users represent the largest segment, with low and middle-income groups also comprising meaningful, albeit smaller, portions of the audience.
+
+![Income KPIs](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1e55ea2d01acbe7603b24ccbe8e035a528b382db/Income_KPIs.png)
+
+An analysis of KPIs by income reveals the following trends:
+
+- High income users are the most cost-efficient segment, with a strong CTR, suggesting that messaging resonates well and pricing is unlikely to be a barrier.
+- Middle-income users show steady, balanced performance across CTR and cost metrics, indicating consistent responsiveness without significant cost concerns.
+- Low-income users generate the highest CTR but are the least cost-efficient overall. This pattern may reflect strong interest, but pricing that might be too prohibitive for them to convert. These users may be more inclined to explore options, hence the high CTR.
