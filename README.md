@@ -310,3 +310,12 @@ Tablets demonstrate the highest CVR across devices, though differences are margi
 
 In terms of cost-efficiency, computers and smartphones perform comparably, while tablets lag behind. This suggests prioritizing desketop and mobile channels for efficiency, while limiting tablet investment to versatile, cross-device creative formats rather than tablet-specific placements.
 
+### Creative Messaging
+
+![Creative Messaging CTR](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3115f0dc1dcd530a3de8b3a0c5fcbacf84bb38d6/Creative_Messaging_CTR.png)
+
+An analysis of creative messaging shows that “Start Your Plan” drives the highest CTR, while “Fast Wifi Now” generates the lowest. Notably, action-oriented messaging appears to generate stronger engagement. Based off the information from the introduction, which outlined the superior conversion rates of benefit-driven messaaging, a performance trade-off between clicks and conversions appears to be present.
+
+![Creative Messaging Cost Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3115f0dc1dcd530a3de8b3a0c5fcbacf84bb38d6/Creative_Messaging_Cost_Effectiveness.png)
+
+Cost-efficiency metrics are relatively consistent across messages; however, “Start Your Plan,” despite its high CTR, is the least cost-efficient with the highest CPM and CPC. Overall, benefit-driven messaging demonstrates slightly stronger efficiency, suggesting that prioritizing these variants may improve conversion outcomes while moderating costs, albeit with some tradeoff in click volume. 
