@@ -319,3 +319,13 @@ An analysis of creative messaging shows that “Start Your Plan” drives the hi
 ![Creative Messaging Cost Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3115f0dc1dcd530a3de8b3a0c5fcbacf84bb38d6/Creative_Messaging_Cost_Effectiveness.png)
 
 Cost-efficiency metrics are relatively consistent across messages; however, “Start Your Plan,” despite its high CTR, is the least cost-efficient with the highest CPM and CPC. Overall, benefit-driven messaging demonstrates slightly stronger efficiency, suggesting that prioritizing these variants may improve conversion outcomes while moderating costs, albeit with some tradeoff in click volume. 
+
+### Ad Positioning
+
+![Ad Position CTR](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3a3afc1125f7b107e1e3c8d8fc45fe585ad14514/Ad_Position_Performance.png)
+
+An analysis of ad positioning shows that below-the-fold placements generate the highest CTR, while sidebar placements perform the weakest. Overall, ads positioned closer to the center of the page tend to outperform those at the periphery. Below-the-fold placements appear to strike a balance between visibility and user experience, offering strong engagement without being overly intrusive.
+
+![Ad Position Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3a3afc1125f7b107e1e3c8d8fc45fe585ad14514/Ad_Position_Cost_Effectiveness.png)
+
+From a cost-efficiency perspective, below-the-fold and footer placements deliver the strongest value, while sidebar ads are the least cost-effective. Combined with their weaker engagement performance, this suggests that sidebar placements should be deprioritized in favor of more centrally positioned formats to optimize overall ROI
