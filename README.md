@@ -329,3 +329,20 @@ An analysis of ad positioning shows that below-the-fold placements generate the 
 ![Ad Position Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/3a3afc1125f7b107e1e3c8d8fc45fe585ad14514/Ad_Position_Cost_Effectiveness.png)
 
 From a cost-efficiency perspective, below-the-fold and footer placements deliver the strongest value, while sidebar ads are the least cost-effective. Combined with their weaker engagement performance, this suggests that sidebar placements should be deprioritized in favor of more centrally positioned formats to optimize overall ROI
+
+## Ad Formats
+
+![Ad Format Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/73e8e5413d0d58d9ed1d6360b9c299f30fc455f0/Ad_Format_CTR.png)
+
+Click-Through Rate of Ad Formats:
+
+- **Video**: 13.12%
+- **Native**: 12.50%
+- **Rich Media**: 12.05%
+- **Display**: 12.02%
+
+An analysis of ad formats by CTR suggests that formats incorporating some level of interactivity outperform standard display ads in driving engagement.
+
+![Ad Format Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/73e8e5413d0d58d9ed1d6360b9c299f30fc455f0/Ad_Format_Cost_Effectiveness.png)
+
+From a cost-efficiency perspective, native ads emerge as the strongest performers, offering an effective balance between engagement and cost. In contrast, display ads rank lowest in both CTR and cost-efficiency, indicating a clear area for optimization and potential deprioritization.
