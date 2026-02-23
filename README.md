@@ -301,7 +301,12 @@ A comparison of viewability and vCPM reveals a significant gap between performan
 Devices performance by conversion rate:
 
 - **Smartphone**: 50.25%
-- **Desktop**: 50.34%
+- **Computer**: 50.34%
 - **Tablet**: 51.20%
 
-Tablets have proven to be the best performing device by CVR, though the differences between devices are not substantial, and they all meet the benchmark of 50%.
+Tablets demonstrate the highest CVR across devices, though differences are marginal and all devices exceed the 50% benchmark.
+
+![Device Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/17b40e1bbb030f61003134502479294647fb34e3/Device_Cost_Effectiveness.png)
+
+In terms of cost-efficiency, computers and smartphones perform comparably, while tablets lag behind. This suggests prioritizing desketop and mobile channels for efficiency, while limiting tablet investment to versatile, cross-device creative formats rather than tablet-specific placements.
+
