@@ -275,3 +275,33 @@ After evaluating every insight from the audience data, three key personas emerge
 ![Persona 2](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/00e9bbada0a8617a8f5794f48afbe3ab956ba35e/Persona%202.png)
 
 ![Persona 3](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/00e9bbada0a8617a8f5794f48afbe3ab956ba35e/Persona%203.png)
+
+## Creative Analysis
+
+### Creative Sizing
+
+An analysis of seven creative sizes shows only a slight performance variation, as each variant exceeds the CTR benchmark. That said, the following are the top three creative sizes based on CTR.
+
+- **970x250**: 12.92% CTR
+- **300x50**: 12.68% CTR
+- **720x90**: 12.67% CTR
+
+The 970×250 format is most commonly served on desktop devices, while the 300×50 format is primarily associated with mobile placements. In contrast, the 728×90 format is more evenly distributed across desktop, mobile, and tablet environments, demonstrating a level of versatility not seen in the other sizes.
+
+![Creative Sizing Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/c25db0426d6b1355c92b526fb0868d4f204964cc/Creative_Sizing_Cost_Effectiveness.png)
+
+An analysis of cost-efficiency across the top five creative sizes highlights 300x250 and 728x90 as the strongest performers. The 300x250 is primarily mobile driven, while the 728x90 offers versatility across devices. Prioritizing these formats may help address broader cost-efficiency challenges. 
+
+![Creative Sizing Viewabiility](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/c25db0426d6b1355c92b526fb0868d4f204964cc/Creative_Sizing_Viewability.png)
+
+A comparison of viewability and vCPM reveals a significant gap between performance and benchmarks. Consistent with other findings, the 300×250 and 728×90 formats remain the most cost-effective, reinforcing their importance in future optimization efforts. However, persistently low viewability across all sizes indicates a broader issue that warrants focused improvement.
+
+### Devices
+
+Devices performance by conversion rate:
+
+- **Smartphone**: 50.25%
+- **Desktop**: 50.34%
+- **Tablet**: 51.20%
+
+Tablets have proven to be the best performing device by CVR, though the differences between devices are not substantial, and they all meet the benchmark of 50%.
