@@ -349,3 +349,14 @@ From a cost-efficiency perspective, native ads emerge as the strongest performer
 
 ## Inventory Analysis
 
+![Ad Exchange Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/8bb34a9b7929d0bac979f7373085d35f79e406a9/Ad_Exchange_Performance.png)
+
+An analysis of ad exchange performance shows Google Ad Manager leading in measurable impressions, with Taboola and OpenX close behind. BidSwitch, while delivering the highest viewability, ranks lowest in measurable impressions. Overall, viewability trends tend to inverse impression volume, with Taboola standing out as a strong performer across both metrics.
+
+![Ad Exchange CTR](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/8bb34a9b7929d0bac979f7373085d35f79e406a9/Ad_Exchange_CTR.png)
+
+In terms of CTR, Taboola ranks highest, reinforcing its position as the strongest overall exchange. Additionally, CTR trends more closely align with viewability than with impression volume, suggesting that viewability may be a more effective metric for guiding optimization strategies.
+
+![Ad Exchange Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/8bb34a9b7929d0bac979f7373085d35f79e406a9/Ad_Exchange_Cost_Effectieveness.png)
+
+Cost-efficiency results show no consistent pattern across exchanges, with performance varying by metric. However, PubMatic stands out as the most consistently cost-effective platform, ranking at or near the top of each metric. 
