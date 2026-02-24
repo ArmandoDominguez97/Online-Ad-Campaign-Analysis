@@ -349,6 +349,8 @@ From a cost-efficiency perspective, native ads emerge as the strongest performer
 
 ## Inventory Analysis
 
+### Ad Exchange
+
 ![Ad Exchange Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/8bb34a9b7929d0bac979f7373085d35f79e406a9/Ad_Exchange_Performance.png)
 
 An analysis of ad exchange performance shows Google Ad Manager leading in measurable impressions, with Taboola and OpenX close behind. BidSwitch, while delivering the highest viewability, ranks lowest in measurable impressions. Overall, viewability trends tend to inverse impression volume, with Taboola standing out as a strong performer across both metrics.
@@ -360,3 +362,23 @@ In terms of CTR, Taboola ranks highest, reinforcing its position as the stronges
 ![Ad Exchange Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/8bb34a9b7929d0bac979f7373085d35f79e406a9/Ad_Exchange_Cost_Effectieveness.png)
 
 Cost-efficiency results show no consistent pattern across exchanges, with performance varying by metric. However, PubMatic stands out as the most consistently cost-effective platform, ranking at or near the top of each metric. 
+
+### Deal Type
+
+![Deal Type Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1ff5ab7eb84fd862ab3010fe8cef5b244839d690/Deal_Type_Performance.png)
+
+An analysis of deal type performance shows that programmatic guaranteed deals generate the highest CTR, indicating stronger engagement within guaranteed placements. In contrast, private marketplace (PMP) deals deliver the highest conversion rates, suggesting better audience alignment and more qualified traffic within curated environments.
+
+![Deal Type Cost Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1ff5ab7eb84fd862ab3010fe8cef5b244839d690/Deal_Type_Cost_Effectiveness.png)
+
+Cost-efficiency metrics further differentiate the deal types, as PMP deals are the most efficient at the impression level, with the lowest CPM and vCPM. Meanwhile, programmatic guaranteed deals are more cost-effective for driving conversions. This contrasts with performance outcomes, where PMP leads in conversions and programmatic guaranteed excels in engagement. Overall, both deal types demonstrate complementary strengths, suggesting that a balanced of use between the two may be the best approach.
+
+### Auction Type
+
+![Auction Type Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1ff5ab7eb84fd862ab3010fe8cef5b244839d690/Auction_Type_Performance.png)
+
+An analysis of auction type performance shows that CTR is slightly higher for second-price auctions, while first-price auctions deliver stronger conversion rates. This suggests that although second-price auctions generate more clicks, first-price auctions may attract more qualified traffic that converts at a higher rate.
+
+![Auction Type Cost Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1ff5ab7eb84fd862ab3010fe8cef5b244839d690/Auction_Type_Cost_Effectiveness.png)
+
+Cost-efficiency metrics provide additional context, as second-price auctions are more efficient across nearly all cost metrics. First place auctions have a lower CPA, though the difference is minimal and does not meaningfully offset the higher visibility and click costs associated with first-price auctions. As a result, second-price auctions appear to offer the stronger overall value and should be prioritized. 
