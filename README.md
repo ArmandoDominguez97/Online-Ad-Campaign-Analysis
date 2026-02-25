@@ -51,10 +51,6 @@ In recent years, StratusLink has strategically expanded its digital advertising 
 ### Data Overview
 #### Data Sources
 
-[Click Here for Datasets](https://docs.google.com/spreadsheets/d/1JU5LDOe17y5SnXyieMovUUkcmT656yYo/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
-
-[Click Here for Data Dictionary](https://docs.google.com/spreadsheets/d/1XXZmAL_f_HF0yFgtStOBggHRmSW-ZMLl/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
-
 - **Dataset 1**: Campaign performance metrics
 - **Dataset 2**: Audience Demographic Attributes
 - **Dataset 3**: User-level engagement data
@@ -410,3 +406,62 @@ Evaluating both performance and cost-efficiency, one URL from each segment was h
 Among the top performers, Yahoos Sports delivers the strongest overall performance but is also the least cost-effective by a significant margin. This mirrors the broader Sports segment, which delivers strong performance but at a disproportionately high cost. Houzz on the other hand, is the most cost-efficient URL but underperforms on CVR. This could lend itself to being a potentially lucrative URL, if we deliver ads that target the middle-aged achiever persona. CNET offers the most balanced combination of performance and cost-efficiency, serving as a model for scalable success across other placements. 
 
 On the lower-performing end, Engadget struggles with both cost-efficiency and engagement, posting weak CTR and sub-benchmark CVR. Verywell Health ranks as the weakest overall URL, combining lowe performance with one of the highest CPAs, depsite maintaining a relatively stable CPC. Last but not least, despite it's superb performance, Yahoo Sports also brings exorbitant costs that may need to be addressed in order to solve overall cost-efficiency issues. Overall, these URLs should to be addressed or potentially deprioritized.
+
+## Conclusion
+
+![Primary Goals](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/13aa0376e6c1c4221f2ede67adb6885e6f974776/Primary%20Benchmark%20Goals.png)
+
+![Secondary Goals](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/13aa0376e6c1c4221f2ede67adb6885e6f974776/Secondary%20Benchmark%20Goals.png)
+
+In conclusion, StratusLink's campaigns demostrate strong engagement performance but face significant challenges in viewability and cost-efficiency, making them both the primary areas of improvement. Improving vieawbility, in particular, may have a compounding effect if we keep all other variables constant. The increase in viewability should result in more total clicks and conversions, thereby improving overall cost-efficienct metrics. 
+
+### Recommendations
+
+#### Spatial
+
+- Boost investment in the Northeast where CTR is highest.
+- Improve engagement in the Midwest by refining targeting + strengthing CTAs.
+- Optimize high-CPCV states — Oregon, Idaho, Wyoming, Wisconsin, Mississippi — by improving video hooks and narrowing targeting.
+- Scale spend in low-CPCV states — Alaska, Nevada, Kansas, Michigan, Maine — to maximize cost-efficient completed views.
+- Focus on bringing higher-intent traffic to the bottom-performing states, Utah, Indiana, Arizona, Alabama, Maine, Iowa, West Virginia, and Vermont, to drive clicks that can translate into more conversions and improve conversion rate and ROI.
+- Shift spend toward suburban + select urban areas where vCPM is lower and viewable impressions are more cost-efficient.
+- Put more focus on Southern states when it comes to improving cost effectiveness.
+
+#### Audience
+
+- Focus a greater share of the budget on middle-aged and high income users due to their balance of strong engagement and low costs, making them our most efficient audience.
+- Improve messaging for younger and middle-income users by testing new creative, clear value-focused benefits, and stronger calls to action in order to generate more engagment.
+- Shift more budget toward the most cost-efficient segments — Self-Employed, Two-Person Households, and Adults 45+ to maximize return on spend.
+- Reduce or limit investment in Students, Single-Person Households, and Ages 18–24 due to consistently high costs and low efficiency.
+- Increase budget allocation to College Grads and Post Grads to capitalize on their low CPA ($41.70) and cheap traffic ($22.36 CPC).
+- Prioritize Single users for acquisition ($42.71 CPA) and Widowed users for cost-effective traffic ($22.43 CPC).
+
+#### Creative
+
+- Prioritize high-performing formats: **300x250**, **728x90**, **970x250**
+- Focus on cross-device ads to sustain tablet-driven CVR, while optimizing resource allocation away from tablet-specific placements.
+- Highlight the **Start Your Plan** messaging to maximize CTR.
+- Place ads **below the fold** and closer to the center to maximize engagement.
+- Shift more budget to **300x250** and **728x90** to maximize cost efficiency.
+- Prioritize **Computer** placements for their low CPCV and **Smartphone** placements for their low CPM and CPC.
+- Optimize **Get Unlimited**, **Upgrade Today**, and **Fast WiFi Now** for their low CPCV, CPM and CPC metrics.
+- Place ads at the footer for the position's low CPM and CPC.
+- Prioritize interactive ads for their stronger performance, particularly **Native** and **Rich Media** formats for their high cost-efficiencies.
+
+#### Inventory
+
+- Focus on Ad Exchange **Taboola** and less on **BidSwitch**.
+- Shift focus towards the best performing URLs for each segment.
+- Adjust campaign usage and ad messaging across each URL based on the demographics of each segment.
+- Focus on **Programmatic Guaranteed** and **First Price Auction** types for the best balance of performance and cost-efficiency.
+- Strategically utilize the **PubMatic** ad exchange for it's consistency across all metrics.
+- Address the low cost-effectiveness for the **Sports** segment, as it's strong performance will not justify any potential deprioritization.
+- Key in on the home and technology segments, as they are both among the most cost-effective.
+
+### Resources
+
+[Click Here for Datasets](https://docs.google.com/spreadsheets/d/1JU5LDOe17y5SnXyieMovUUkcmT656yYo/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
+
+[Click Here for Data Dictionary](https://docs.google.com/spreadsheets/d/1XXZmAL_f_HF0yFgtStOBggHRmSW-ZMLl/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
+
+[Click Here for Slide Deck](https://www.canva.com/design/DAG4WUDK5Ac/pvyfSdb9nJsQP_dNm6kL8Q/edit?utm_content=DAG4WUDK5Ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
