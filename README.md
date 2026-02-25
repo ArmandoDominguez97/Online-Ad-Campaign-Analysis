@@ -391,7 +391,7 @@ An analysis of content segments shows Sports as the strongest overall performer,
 
 Health shows more mixed performance metrics, with the highest CTR by the lowest CVR. This suggests strong initial engagement, but some degree of disappointment preventing users from converting. 
 
-In contrast, Music underperforms in both CTR and viewability, which may reflect its younger audience composition, given that they are more likely to consume music on the internet. This suggests an oppurtunity to improve performance through a greater emphasis on mobile ads, given younger users' propensity to browse the internet through their cellphones. 
+In contrast, Music underperforms in both CTR and viewability, which may reflect its younger audience composition, given that they are more likely to consume music on the internet. This suggests an oppurtunity to improve performance through a greater emphasis on mobile ads, since younger users tend to browse the internet through their cellphones. 
 
 ![Segment Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/f2830526d18bd64e456629f5f03901846d411642/Segment_Cost_Effectiveness.png)
 
