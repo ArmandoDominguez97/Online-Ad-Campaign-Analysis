@@ -32,6 +32,7 @@ COOP Careers Cohort 578 Capstone Project
 4. **Creative**: Evaluating Sizes, Devices, Positions, & Formats Against Benchmarks
 5. **Inventory**: Auction Type, Deal Type, Ad Exchange, and Segment Analysis
 6. **Conclusion**: Summary & Recommendations
+7. **Resources**: Datasets, Dictionary, and Slide Deck For Acccesibility
 
 ## Introduction
 
@@ -409,6 +410,8 @@ On the lower-performing end, Engadget struggles with both cost-efficiency and en
 
 ## Conclusion
 
+### Summary
+
 ![Primary Goals](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/13aa0376e6c1c4221f2ede67adb6885e6f974776/Primary%20Benchmark%20Goals.png)
 
 ![Secondary Goals](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/13aa0376e6c1c4221f2ede67adb6885e6f974776/Secondary%20Benchmark%20Goals.png)
@@ -458,7 +461,7 @@ In conclusion, StratusLink's campaigns demostrate strong engagement performance 
 - Address the low cost-effectiveness for the **Sports** segment, as it's strong performance will not justify any potential deprioritization.
 - Key in on the home and technology segments, as they are both among the most cost-effective.
 
-### Resources
+## Resources
 
 [Click Here for Datasets](https://docs.google.com/spreadsheets/d/1JU5LDOe17y5SnXyieMovUUkcmT656yYo/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
 
