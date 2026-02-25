@@ -382,3 +382,31 @@ An analysis of auction type performance shows that CTR is slightly higher for se
 ![Auction Type Cost Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/1ff5ab7eb84fd862ab3010fe8cef5b244839d690/Auction_Type_Cost_Effectiveness.png)
 
 Cost-efficiency metrics provide additional context, as second-price auctions are more efficient across nearly all cost metrics. First place auctions have a lower CPA, though the difference is minimal and does not meaningfully offset the higher visibility and click costs associated with first-price auctions. As a result, second-price auctions appear to offer the stronger overall value and should be prioritized. 
+
+### Segment
+
+![Segment Performance](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/f2830526d18bd64e456629f5f03901846d411642/Segment_Performance.png)
+
+An analysis of content segments shows Sports as the strongest overall performer, likely driven by its alignment with middle-aged and older audiences, which have demonstrated strong responsiveness across prior analyses.
+
+Health shows more mixed performance metrics, with the highest CTR by the lowest CVR. This suggests strong initial engagement, but some degree of disappointment preventing users from converting. 
+
+In contrast, Music underperforms in both CTR and viewability, which may reflect its younger audience composition, given that they are more likely to consume music on the internet. This suggests an oppurtunity to improve performance through a greater emphasis on mobile ads, given younger users' propensity to browse the internet through their cellphones. 
+
+![Segment Cost-Effectiveness](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/f2830526d18bd64e456629f5f03901846d411642/Segment_Cost_Effectiveness.png)
+
+A cost-effective analysis shows that while Sports is the best performing segment, it is also the least cost-effective by a considerable margin. Health also exhibits high costs, but without the strong performance, making it arguably the weakest overall segment.
+
+In contrast, the Home segment delivers the lowest CPA while maintaining strong performance, representing the strongest balance between cost-efficiency and performance. This might in part be due to it's potential alignment with the 'middle-aged achiever' persona identified by the audience analysts.
+
+Technology emerges as the most cost-effective segment overall but also one of the weaker performing ones. Like the Music segment, this could suggest a potential audience mismatch and an oppurtunity to improve results through increased efforts to reach younger audiences. 
+
+### URLs
+
+![URL Analysis](https://github.com/ArmandoDominguez97/Online-Ad-Campaign-Analysis/blob/f2830526d18bd64e456629f5f03901846d411642/URL_Analysis.png)
+
+Evaluating both performance and cost-efficiency, one URL from each segment was highlighted to identify promising oppurtunities as well as areas of concern.
+
+Among the top performers, Yahoos Sports delivers the strongest overall performance but is also the least cost-effective by a significant margin. This mirrors the broader Sports segment, which delivers strong performance but at a disproportionately high cost. Houzz on the other hand, is the most cost-efficient URL but underperforms on CVR. This could lend itself to being a potentially lucrative URL, if we deliver ads that target the middle-aged achiever persona. CNET offers the most balanced combination of performance and cost-efficiency, serving as a model for scalable success across other placements. 
+
+On the lower-performing end, Engadget struggles with both cost-efficiency and engagement, posting weak CTR and sub-benchmark CVR. Verywell Health ranks as the weakest overall URL, combining lowe performance with one of the highest CPAs, depsite maintaining a relatively stable CPC. Last but not least, despite it's superb performance, Yahoo Sports also brings exorbitant costs that may need to be addressed in order to solve overall cost-efficiency issues. Overall, these URLs should to be addressed or potentially deprioritized.
