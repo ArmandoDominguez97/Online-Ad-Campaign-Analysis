@@ -26,8 +26,8 @@ COOP Careers Cohort 578 Capstone Project
 - Kevin Elshemy
 
 ## Table of Contents
-1. **Introduction**: Client, Objectives, Data, KPI Summary
-2. **Spatial Analysis**: KPIs for States & Regions Across the United States
+1. [**Introduction**](##introduction): Client, Objectives, Data, KPI Summary
+2. [**Spatial Analysis**](##: KPIs for States & Regions Across the United States
 3. **Audience**: Demographic KPI & Personas
 4. **Creative**: Evaluating Sizes, Devices, Positions, & Formats Against Benchmarks
 5. **Inventory**: Auction Type, Deal Type, Ad Exchange, and Segment Analysis
