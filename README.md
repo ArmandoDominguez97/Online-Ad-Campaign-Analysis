@@ -28,9 +28,9 @@ COOP Careers Cohort 578 Capstone Project
 ## Table of Contents
 1. [**Introduction**](#introduction): Client, Objectives, Data, KPI Summary
 2. [**Spatial Analysis**](#spatial-analysis): KPIs for States & Regions Across the United States
-3. [**Audience**](#audience-analysis): Demographic KPI & Personas
-4. [**Creative**](#creative-analysis): Evaluating Sizes, Devices, Positions, & Formats Against Benchmarks
-5. [**Inventory**](#inventory-analysis): Auction Type, Deal Type, Ad Exchange, and Segment Analysis
+3. [**Audience Analysis**](#audience-analysis): Demographic KPI & Personas
+4. [**Creative Analysis**](#creative-analysis): Evaluating Sizes, Devices, Positions, & Formats Against Benchmarks
+5. [**Inventory Analysis**](#inventory-analysis): Auction Type, Deal Type, Ad Exchange, and Segment Analysis
 6. [**Conclusion**](#conclusion): Summary & Recommendations
 7. [**Resources**](#resources): Datasets, Dictionary, and Slide Deck For Acccesibility
 
